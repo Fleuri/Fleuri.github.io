@@ -1,0 +1,95 @@
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1457689682149">
+  <folder name="css">
+    <file name="site_global.css" crc="4287895265"/>
+    <file name="master_a-master.css" crc="483361961" ref="videot-ja-valokuvat:työt:index:miten-voin-auttaa:minä:taittotyöt-ja-ikonit:projektit"/>
+    <file name="videot-ja-valokuvat.css" crc="382316740" ref="videot-ja-valokuvat"/>
+    <file name="ty_t.css" crc="4031341192" ref="työt"/>
+    <file name="index.css" crc="521777076" ref="index"/>
+    <file name="miten-voin-auttaa.css" crc="3813117026" ref="miten-voin-auttaa"/>
+    <file name="min_.css" crc="4112572693" ref="minä"/>
+    <file name="taittoty_t-ja-ikonit.css" crc="283868284" ref="taittotyöt-ja-ikonit"/>
+    <file name="projektit.css" crc="4056735645" ref="projektit"/>
+  </folder>
+  <folder name="assets">
+    <file name="3_apinaa.png" crc="417143225" seo="true" mt="1457678674000"/>
+    <file name="manondroala_a3.png" crc="40311300" seo="true" mt="1457680357000"/>
+    <file name="manondroala-esite.pdf" crc="491591490" seo="true" mt="1457684170000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="museutils.js" crc="334180058" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="pie.js" crc="3827607177" ref="index:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="webpro.js" crc="7309900" ref="miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="form_check.php" crc="481505460" ref="miten-voin-auttaa"/>
+    <file name="form_throttle.php" crc="190635071" ref="miten-voin-auttaa"/>
+    <file name="form_process.php" crc="3869018311" ref="miten-voin-auttaa"/>
+    <file name="form-u312.php" crc="449185137" ref="miten-voin-auttaa"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="touchswipe.js" crc="526709374" ref="taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+  </folder>
+  <folder name="images">
+    <file name="kanando.jpg" crc="4040837529" seo="true" ref="index:minä:projektit:työt:miten-voin-auttaa:taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="u190.png" crc="522680127" ref="minä"/>
+    <file name="u190-r.png" crc="214137436" ref="minä"/>
+    <file name="u190-m.png" crc="209020784" ref="minä"/>
+    <file name="u1044.png" crc="4163248089" ref="minä"/>
+    <file name="u1044-r.png" crc="520195614" ref="minä"/>
+    <file name="u1044-m.png" crc="332851176" ref="minä"/>
+    <file name="u313-17.png" crc="4142042596" ref="miten-voin-auttaa"/>
+    <file name="u313-17-r.png" crc="352532661" ref="miten-voin-auttaa"/>
+    <file name="u313-17-m.png" crc="305527386" ref="miten-voin-auttaa"/>
+    <file name="u313-17-fs.png" crc="4002386333" ref="miten-voin-auttaa"/>
+    <file name="3_apinaa.png" crc="317194717" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="manondroala_a3.png" crc="4000698029" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="manondroala-esite.jpg" crc="281623370" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-location.png" crc="467204934" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="blank.gif" crc="4208392903" ref="taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="gapps-insurance.png" crc="371318771" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-lunch.png" crc="4051670837" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-salary.png" crc="99719561" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-team.png" crc="3985347578" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-tools.png" crc="189030479" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-vacation.png" crc="476518753" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-location-crop-u942.png" crc="216755917" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-insurance60x55.png" crc="4281481478" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-lunch67x45.png" crc="509375239" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-salary60x55.png" crc="3774824503" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-team66x45.png" crc="4254207125" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-tools60x47.png" crc="45815994" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="gapps-vacation-crop-u987.png" crc="3895929405" ref="taittotyöt-ja-ikonit"/>
+    <file name="loading.gif" crc="3815509949" ref="taittotyöt-ja-ikonit:videot-ja-valokuvat"/>
+    <file name="keittio-teksti200.png" crc="4165674734" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="kulttuuri-teksti200.png" crc="63036048" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="luonto-teksti200.png" crc="112632528" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="matkailu-teksti200.png" crc="14856352" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="muoti-teksti200.png" crc="72260006" seo="true" ref="taittotyöt-ja-ikonit"/>
+    <file name="keittio-teksti200-crop-u778.png" crc="3923575145" ref="taittotyöt-ja-ikonit"/>
+    <file name="kulttuuri-teksti200-crop-u787.png" crc="514135784" ref="taittotyöt-ja-ikonit"/>
+    <file name="luonto-teksti200-crop-u796.png" crc="4057492393" ref="taittotyöt-ja-ikonit"/>
+    <file name="matkailu-teksti200-crop-u805.png" crc="3807353088" ref="taittotyöt-ja-ikonit"/>
+    <file name="muoti-teksti200-crop-u814.png" crc="164726603" ref="taittotyöt-ja-ikonit"/>
+    <file name="bandiksen_takaa.jpg" crc="61215773" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="bandis_edesta.jpg" crc="3787515340" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="kynttilat.jpg" crc="82364316" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="kynttilat_pimeassa.jpg" crc="3850040094" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="kynttiloiden_asettelu_lapsi.jpg" crc="385465149" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="lapsi_pieni.jpg" crc="190855094" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="punatakkitytto_kynttiloineen.jpg" crc="3932993406" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="stranius.jpg" crc="395308881" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="yleiskuva.jpg" crc="4167887915" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="yleiskuva_portailta.jpg" crc="90299868" seo="true" ref="videot-ja-valokuvat"/>
+    <file name="kynttilat_pimeassa-crop-u469.jpg" crc="319259909" ref="videot-ja-valokuvat"/>
+    <file name="kynttiloiden_asettelu_lapsi-crop-u478.jpg" crc="381613807" ref="videot-ja-valokuvat"/>
+  </folder>
+  <file name="index.html" crc="4049968061" seo="true" mt="1457686615896" redirect="true"/>
+  <file name="minä.html" crc="390443439" seo="true" mt="1457686711984" redirect="true"/>
+  <file name="projektit.html" crc="4226704562" seo="true" mt="1457686615896" redirect="true"/>
+  <file name="työt.html" crc="3846849235" seo="true" mt="1457686615896" redirect="true"/>
+  <file name="miten-voin-auttaa.html" crc="4217017438" seo="true" mt="1457686903510" redirect="true"/>
+  <file name="taittotyöt-ja-ikonit.html" crc="3829944774" seo="true" mt="1457686784765" redirect="true"/>
+  <file name="videot-ja-valokuvat.html" crc="3818253939" seo="true" mt="1457686615896" redirect="true"/>
+</manifest>
